@@ -1,6 +1,6 @@
 
 <h3 align=left">Hi There 👋</h3>
-<h3 align="left">I'm Manly and here is my projects. You're Welcome!</h3>
+<h3 align="left">I'm Manly and here is my projects. You're welcome!</h3>
 <h1></h1>
 
 <h3 align="left">My Stack:</h3>
