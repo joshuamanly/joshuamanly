@@ -1,6 +1,6 @@
 # Hi, I'm Joshua Manly 👋
 ---
-Nice to meet you! I'm currently a student at Bina Nusantara University, majoring in Game Application and Technology 🎮
+Pleasure to meet you! I'm currently a student at Bina Nusantara University, focusing in Game Application and Technology 🎮
 
 *All the GIFs are linked to their respective itch.io page*
 
@@ -18,8 +18,8 @@ Nice to meet you! I'm currently a student at Bina Nusantara University, majoring
       <td><img src=""/></td>
     </tr>
     <tr>
-      <td valign="text-top">A tower-defense game about dragons trying to defend their home againts endless monster forces. This game is inspired by famous game Plants vs Zombies . Immunopedia is a game where you need to know and understand what each unit can do, be it ally or enemy.</td>
-      <td valign="text-top"">This game the first game that I got fully made and released. Work Less Play More is a 2D beat-em-up game with a unique mechanic where you need to avoid your boss attention. The game was made for Brackeys Game Jam 2022.1 with the theme "This is not real".<div></div></td>
+      <td valign="text-top">A tower-defense game about dragons trying to defend their home againts endless monster forces. This game was made to improve my knowledge in Unity about grid and raycast. Dragons vs Monsters is a strategic game where you don't only need to know about the ability of each units, but also the rules of the game.</td>
+      <td valign="text-top"">.<div></div></td>
     </tr>
     <tr>
       <td><a href="https://lymangames.itch.io/dragons-vs-monsters">Itch Page</td>
