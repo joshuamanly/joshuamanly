@@ -14,7 +14,7 @@ Pleasure to meet you! I'm currently a student at Bina Nusantara University, focu
   <tbody>
     <tr>
       <td><img src=""/></td>
-      <td><img src=""/></td>
+      <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/hallow.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">A tower-defense game about dragons trying to defend their home againts endless monster forces. This game was made to improve my knowledge in Unity about grid and raycast. Dragons vs Monsters is a strategic game where you don't only need to know about the ability of each units, but also the rules of the game.</td>
