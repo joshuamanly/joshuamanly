@@ -3,7 +3,7 @@
 <h5 align="center">Below are a few tools and languages that I know</h5>
 <p align="center"> <a href="https://github.com/joshuamanly"><img src="https://skillicons.dev/icons?i=unity,blender,ps,pr,c,cs,cpp"> </a> </p>
 
-## Highlighted games : 
+## Highlighted Games 
 <table width="100%">
   <thead>
     <tr>
