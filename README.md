@@ -1,9 +1,9 @@
-# Hi, I'm Joshua Manly 👋
----
-Pleasure to meet you! I'm currently a student at Bina Nusantara University, focusing in Game Application and Technology 🎮
+## Introduction
+<h3 align="center">Hey there, I'm <a href="https://github.com/joshuamanly">Manly</a></h3>
+<h5 align="center">Below are a few tools and languages that I know</h5>
+<p align="center"> <a href="https://github.com/joshuamanly"><img src="https://skillicons.dev/icons?i=unity,blender,ps,pr,c,cs,cpp"> </a> </p>
 
-
-# Highlighted games : 
+## Highlighted games : 
 <table width="100%">
   <thead>
     <tr>
