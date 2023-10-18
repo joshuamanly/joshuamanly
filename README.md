@@ -2,9 +2,8 @@
 ---
 Pleasure to meet you! I'm currently a student at Bina Nusantara University, focusing in Game Application and Technology 🎮
 
-*All the GIFs are linked to their respective itch.io page*
 
-# Here are highlights from some of the games I made:
+# Highlighted games : 
 <table width="100%">
   <thead>
     <tr>
