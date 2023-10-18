@@ -13,7 +13,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXdqc2g0cjhjeHNidmRmNXUyM2YwMWNhanVhOXBvZHkwbzU3bDRiMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w9ijYkPzCyBvtnYkTZ/giphy.gif"/></td>
+      <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/DVM%20rev.gif"/></td>
       <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/hallow%20400x225.gif"/></td>
     </tr>
     <tr>
