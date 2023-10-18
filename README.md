@@ -9,7 +9,7 @@ Pleasure to meet you! I'm currently a student at Bina Nusantara University, focu
   <thead>
     <tr>
       <th width="50%"><a href="https://lymangames.itch.io/dragons-vs-monsters">Dragons vs Monsters </a></th>
-      <th width="50%"><a href="https://bgdc.itch.io/work-less-play-more">Hallow Survivor </a></th>
+      <th width="50%"><a href="https://lymangames.itch.io/hallow-survivor">Hallow Survivor </a></th>
     </tr>
   </thead>
   <tbody>
@@ -19,11 +19,11 @@ Pleasure to meet you! I'm currently a student at Bina Nusantara University, focu
     </tr>
     <tr>
       <td valign="text-top">A tower-defense game about dragons trying to defend their home againts endless monster forces. This game was made to improve my knowledge in Unity about grid and raycast. Dragons vs Monsters is a strategic game where you don't only need to know about the ability of each units, but also the rules of the game.</td>
-      <td valign="text-top"">.<div></div></td>
+      <td valign="text-top"">Hallow Survivor is a roguelike survival game where player needs to survive from waves of monsters and defeat the legendary Dracula. This game requires great focus because sometimes you might lose your weapon after killing an enemy.<div></div></td>
     </tr>
     <tr>
       <td><a href="https://lymangames.itch.io/dragons-vs-monsters">Itch Page</td>
-      <td><a href="https://bgdc.itch.io/work-less-play-more">Itch Page</td>
+      <td><a href="https://lymangames.itch.io/hallow-survivor">Itch Page</td>
     </tr>
     <tr>
       <td></td>
