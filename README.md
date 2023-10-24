@@ -42,18 +42,18 @@ h3>
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://lymangames.itch.io/dragons-vs-monsters">Endless space </a></th>
-      <th width="50%"><a href="https://lymangames.itch.io/hallow-survivor">Reserved </a></th>
+      <th width="50%">Endless space </th>
+      <th width="50%">Color Rhythm </th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/space%20done.gif"/></td>
-      <td><img src=""/></td>
+      <td><img src=""/>Reserved</td>
     </tr>
     <tr>
       <td valign="text-top">A Simple 3D endless runner game about a ball trying to avoid the colorful walls. This game is my first attempt of making a 3D mobile game.</td>
-      <td valign="text-top""><div></div></td>
+      <td valign="text-top""><div></div>Rhytm Game. Color Combine. </td>
     </tr>
     <tr>
       <td><a href="https://lymangames.itch.io/dragons-vs-monsters"></td>
