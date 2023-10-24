@@ -47,11 +47,11 @@ h3>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/DVM%20rev.gif"/></td>
+      <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/space%20done.gif"/></td>
       <td><img src=""/></td>
     </tr>
     <tr>
-      <td valign="text-top">A Simple 3D endless runner game about ball trying to avoid the colorful walls. This game is my first attempt of making a mobile 3D game.</td>
+      <td valign="text-top">A Simple 3D endless runner game about a ball trying to avoid the colorful walls. This game is my first attempt of making a 3D mobile game.</td>
       <td valign="text-top""><div></div></td>
     </tr>
     <tr>
