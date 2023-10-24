@@ -36,7 +36,33 @@ h3>
     </tr>
   </tbody>
 </table>
-
-<br>
+        
+## Ongoing Projects (Prototype) 
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%"><a href="https://lymangames.itch.io/dragons-vs-monsters">Endless space </a></th>
+      <th width="50%"><a href="https://lymangames.itch.io/hallow-survivor">Reserved </a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/DVM%20rev.gif"/></td>
+      <td><img src=""/></td>
+    </tr>
+    <tr>
+      <td valign="text-top">A Simple 3D endless runner game about ball trying to avoid the colorful walls. This game is my first attempt of making a mobile 3D game.</td>
+      <td valign="text-top""><div></div></td>
+    </tr>
+    <tr>
+      <td><a href="https://lymangames.itch.io/dragons-vs-monsters"></td>
+      <td><a href="https://lymangames.itch.io/hallow-survivor"></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 
