@@ -7,14 +7,15 @@
 <h3 align="center">Hey there, I'm <a href="https://github.com/joshuamanly">Manly</a></
 h3>
 <h5 align="center">Below are a few tools and languages that I use</h5>
-<p align="center"> <a href="https://github.com/joshuamanly"><img src="https://skillicons.dev/icons?i=unity,blender,ps,pr,c,cs,cpp"> </a> </p>
+<p align="center"> <a href="https://github.com/joshuamanly"><img src="https://skillicons.dev/icons?i=unity,blender,ps,pr,c,cs,java"> </a> </p>
 
 ## Highlighted Games 
 <table width="100%">
   <thead>
     <tr>
       <th width="50%"><a href="https://lymangames.itch.io/dragons-vs-monsters">Dragons vs Monsters </a></th>
-      <th width="50%"><a href="https://lymangames.itch.io/hallow-survivor">Hallow Survivor </a></th>
+      <th width="50%"><a href="https://lymangames.itch.io/hallow-survivor">Hallow Survivor </a>
+</th>
     </tr>
   </thead>
   <tbody>
