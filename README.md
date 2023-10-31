@@ -49,7 +49,7 @@ h3>
   <tbody>
     <tr>
       <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/space%20done.gif"/></td>
-      <td><img src=""/>Reserved</td>
+      <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/color%20rhythm.gif"/></td>
     </tr>
     <tr>
       <td valign="text-top">A Simple 3D endless runner game about a ball trying to avoid the colorful walls. This game is my first attempt of making a 3D mobile game.</td>
