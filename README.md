@@ -38,32 +38,6 @@ h3>
   </tbody>
 </table>
         
-## Ongoing Projects (Prototype) 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="50%">Endless space </th>
-      <th width="50%">Color Rhythm </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/space%20done.gif"/></td>
-      <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/color%20rhythm.gif"/></td>
-    </tr>
-    <tr>
-      <td valign="text-top">A Simple 3D endless runner game about a ball trying to avoid the colorful walls. This game is my first attempt of making a 3D mobile game.</td>
-      <td valign="text-top""><div></div>Rhytm Game. Color Combine. </td>
-    </tr>
-    <tr>
-      <td><a href="https://lymangames.itch.io/dragons-vs-monsters"></td>
-      <td><a href="https://lymangames.itch.io/hallow-survivor"></td>
-    </tr>
-    <tr>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+
 
 
