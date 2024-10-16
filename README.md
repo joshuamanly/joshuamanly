@@ -13,14 +13,14 @@ h3>
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://lymangames.itch.io/dragons-vs-monsters">Dragons vs Monsters </a></th>
+      <th width="50%"><a href="https://lymangames.itch.io/dragons-vs-monsters">Power Kart Racing </a></th>
       <th width="50%"><a href="https://lymangames.itch.io/hallow-survivor">Color Rhytm </a>
 </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/DVM%20rev.gif"/></td>
+      <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/Power%20Kart%20Racing%20400%20x%20300.png"/></td>
       <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/color%20rhythm.gif"/></td>
     </tr>
     <tr>
