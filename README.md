@@ -20,11 +20,11 @@ h3>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/Power%20Kart%20Racing%20400%20x%20300.png"/></td>
+      <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/Power%20Kart%20Racing%201000%20x%20500.png"/></td>
       <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/color%20rhythm.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">A 3D Local multiplayer kart racing game. Choose 1 from 8 characters, each with a unique vehicle and character. Featuring 5 special powerups that boosts gameplay experience. Play and be the best on the track!</td>
+      <td valign="text-top">A 3D Local multiplayer kart racing game. Choose 1 from 8 unique characters. Featuring 5 special powerups that boosts gameplay experience. Play and be the best on the track! Available only On Polytron TV Devices.</td>
       <td valign="text-top"">2D Rhytm game mixed with unique rpg and color combine. WARNING! This game requires 150% focus as you will need to focus on the rhytm while also try to kill the enemies and also combine the right color. <div></div></td>
     </tr>
     <tr>
