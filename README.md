@@ -13,8 +13,8 @@ h3>
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%"><a href="https://lymangames.itch.io/dragons-vs-monsters">Power Kart Racing </a></th>
-      <th width="50%"><a href="https://lymangames.itch.io/hallow-survivor">Color Rhytm </a>
+      <th width="50%"><a href="">Power Kart Racing </a></th>
+      <th width="50%"><a href="https://play.google.com/store/apps/details?id=com.hit.powerkartracing&hl=en_US">Color Rhytm </a>
 </th>
     </tr>
   </thead>
@@ -28,8 +28,8 @@ h3>
       <td valign="text-top"">2D Rhytm game mixed with unique rpg and color combine. WARNING! This game requires 150% focus as you will need to focus on the rhytm while also try to kill the enemies and also combine the right color. <div></div></td>
     </tr>
     <tr>
-      <td><a href="https://play.google.com/store/apps/details?id=com.hit.powerkartracing&hl=en_US">Google play link</td>
-      <td><a href="https://lymangames.itch.io/hallow-survivor">Itch Page</td>
+      <td><a href="">Google play link</td>
+      <td><a href="https://lymangames.itch.io/color-rhytm">Itch Page</td>
     </tr>
     <tr>
       <td></td>
