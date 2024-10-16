@@ -7,7 +7,7 @@
 <h3 align="center">Hey there, I'm <a href="https://github.com/joshuamanly">Lyman</a></
 h3>
 <h5 align="center">Below are a few tools and languages that I use</h5>
-<p align="center"> <a href="https://github.com/joshuamanly"><img src="https://skillicons.dev/icons?i=unity,ps,c,cs"> </a> </p>
+<p align="center"> <a href="https://github.com/joshuamanly"><img src="https://skillicons.dev/icons?i=unity,cs,c,js"> </a> </p>
 
 ## Highlighted Games 
 <table width="100%">
