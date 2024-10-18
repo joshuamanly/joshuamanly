@@ -24,8 +24,8 @@ h3>
       <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/color%20rhythm.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">A 3D Local multiplayer kart racing game.  My resposibilities in this project including: Implement Main Menu based on Mockup (Programming and UI/UX), Implement Sound (Menu and Game), Implement 3 Powerups (Shield, Smoke, Boost), Implement Minimap, Implement Spline mechanism and race system, Implement some car pyhsics, Optimization using job and burst</td>
-      <td valign="text-top"">2D Rhytm game mixed with unique rpg and color combine. WARNING! This game requires 150% focus as you will need to focus on the rhytm while also try to kill the enemies and also combine the right color. <div></div></td>
+      <td valign="text-top">A 3D Local multiplayer kart racing game.  My resposibilities in this project including: Implement Main Menu based on Mockup (Programming and UI/UX), Implement Sound (Menu and Game), Implement 3 Powerups (Shield, Smoke, Boost), Implement Minimap, Implement Spline mechanism and race system, Implement some car pyhsics, Optimization using job and burst.</td>
+      <td valign="text-top"">2D Rhytm game mixed with unique rpg and color combine. WARNING! This game requires 150% focus as you will need to focus on the rhytm while also try to kill the enemies and also combine the right color. My responsibilities : Everything (Solo dev) <div></div></td>
     </tr>
     <tr>
       <td><a href="https://play.google.com/store/apps/details?id=com.hit.powerkartracing&hl=en_US">Google play link</td>
@@ -51,8 +51,8 @@ h3>
       <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/hallow%20400x225.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">A tower-defense game about dragons trying to defend their home againts endless monster forces. Dragons vs Monsters is a strategic game where you don't only need to know about the ability of each units, but also the rules of the game.</td>
-      <td valign="text-top"">Hallow Survivor is a roguelike survival game where player needs to survive from waves of monsters and defeat the legendary Dracula. This game requires great focus because sometimes you might lose your weapon after killing an enemy.<div></div></td>
+      <td valign="text-top">A tower-defense game about dragons trying to defend their home againts endless monster forces. Dragons vs Monsters is a strategic game where you don't only need to know about the ability of each units, but also the rules of the game. My responsibilities : Programming (Menu and gameplay), Implement Sound System, Programming UI/UX</td>
+      <td valign="text-top"">Hallow Survivor is a roguelike survival game where player needs to survive from waves of monsters and defeat the legendary Dracula. This game requires great focus because sometimes you might lose your weapon after killing an enemy. My responsibilities : Everything (Solo dev)<div></div></td>
     </tr>
     <tr>
       <td><a href="https://lymangames.itch.io/dragons-vs-monsters">Itch Page</td>
