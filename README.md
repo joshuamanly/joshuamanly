@@ -51,8 +51,8 @@ h3>
       <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/hallow%20400x225.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">A tower-defense game about dragons trying to defend their home againts endless monster forces. Dragons vs Monsters is a strategic game where you don't only need to know about the ability of each units, but also the rules of the game. My responsibilities : Programming (Menu and gameplay), Implement Sound System, Programming UI/UX</td>
-      <td valign="text-top"">Hallow Survivor is a roguelike survival game where player needs to survive from waves of monsters and defeat the legendary Dracula. This game requires great focus because sometimes you might lose your weapon after killing an enemy. My responsibilities : Everything (Solo dev)<div></div></td>
+      <td valign="text-top">A tower-defense game about dragons trying to defend their home againts endless monster forces. Dragons vs Monsters is a strategic game where you don't only need to know about the ability of each units, but also the rules of the game. My responsibilities : Everything (Solo dev) </td>
+      <td valign="text-top"">Hallow Survivor is a roguelike survival game where player needs to survive from waves of monsters and defeat the legendary Dracula. This game requires great focus because sometimes you might lose your weapon after killing an enemy. My responsibilities : Programming (Menu and gameplay), Implement Sound System, Programming UI/UX<div></div></td>
     </tr>
     <tr>
       <td><a href="https://lymangames.itch.io/dragons-vs-monsters">Itch Page</td>
