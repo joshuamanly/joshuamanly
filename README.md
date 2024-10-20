@@ -24,7 +24,7 @@ h3>
       <td><img src="https://github.com/joshuamanly/joshuamanly/blob/main/color%20rhythm.gif"/></td>
     </tr>
     <tr>
-      <td valign="text-top">A 3D Local multiplayer kart racing game.  My resposibilities in this project including: Implement Main Menu based on Mockup (Programming and UI/UX), Implement Sound (Menu and Game), Implement 3 Powerups (Shield, Smoke, Boost), Implement Minimap, Implement Spline mechanism and race system, Implement some car pyhsics, Optimization using job and burst.</td>
+      <td valign="text-top">A 3D Local multiplayer kart racing game.  My resposibilities in this project including: Implement Main Menu based on Mockup (Programming and UI/UX), Implement Sound (Menu and Game), Implement 3 Powerups (Shield, Smoke, Boost), Implement Minimap, Implement Spline mechanism and race system, Implement disconnect and reconnect feature, Implement some kart pyhsics, Optimization using job and burst.</td>
       <td valign="text-top"">2D Rhytm game mixed with unique rpg and color combine. WARNING! This game requires 150% focus as you will need to focus on the rhytm while also try to kill the enemies and also combine the right color.  My responsibilities : Programming (Menu and gameplay), Implement Sound System, Programming UI/UX. <div></div></td>
     </tr>
     <tr>
