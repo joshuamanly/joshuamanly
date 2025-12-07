@@ -1,16 +1,9 @@
 # Hi everyone!
 ### My name is **Joshua Manly**.
-I'm a *Game Programmer* who is [Unity-certified](https://www.credly.com/badges/ca39d83a-e6c2-42a5-8b46-c3ba50397593/public_url) and currently enjoying working on Full-Stack Development. 
+I'm a [Unity Certified](https://www.credly.com/badges/ca39d83a-e6c2-42a5-8b46-c3ba50397593/public_url)  *Game Programmer* and currently enjoying working on Full-Stack Development. 
 
 ### Tech Stack
-  <img align="left" src="https://img.shields.io/badge/unity-%23000000.svg?logo=unity&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>
-  <img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
-  <img align="left" src="https://img.shields.io/badge/go-%23007d9c.svg?logo=go&logoColor=white"/>
-  <img align="left" src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white"/>
-  <br><br>
+ <div align="left"> <img src="https://skillicons.dev/icons?i=unity" width="42" /> <img src="https://skillicons.dev/icons?i=cs" width="42" /> <img src="https://skillicons.dev/icons?i=js" width="42" /> <img src="https://skillicons.dev/icons?i=ts" width="42" /> <img src="https://skillicons.dev/icons?i=react" width="42" /> <img src="https://skillicons.dev/icons?i=go" width="42" /> <img src="https://skillicons.dev/icons?i=nodejs" width="42" /> </div>
 
 ### Github Statistic
 <p align="left">
@@ -21,8 +14,4 @@ I'm a *Game Programmer* who is [Unity-certified](https://www.credly.com/badges/c
 </p>
 
 ### 🔍 You Can Find Me at 
-<p> 
-  <a href="https://www.linkedin.com/in/joshuamanly/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> 
-</p>
+<div align="left"> <a href="https://www.linkedin.com/in/joshuamanly/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </div>
