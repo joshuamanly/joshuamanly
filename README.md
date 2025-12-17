@@ -9,7 +9,7 @@ I'm a [Unity Certified](https://www.credly.com/badges/ca39d83a-e6c2-42a5-8b46-c3
 <p align="left">
 <a href="https://github.com/joshuamanly">
 <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joshuamanly&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joshuamanly&layout=compact&langs_count=8&theme=algolia"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=joshuamanly&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
 </a>
 </p>
 
